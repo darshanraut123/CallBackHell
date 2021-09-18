@@ -19,7 +19,7 @@ setTimeout(() => {
                                     setTimeout(()=>{
                                         document.body.innerText=1;
                                         setTimeout(()=>{
-                                            document.body.innerText="Happy New Year!";                                        },1000);
+                                            document.body.innerText="Happy Independance Day!";                                        },1000);
                                     },1000);
                                 },1000);
                             },1000);
